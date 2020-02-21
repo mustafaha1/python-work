@@ -1,0 +1,6 @@
+password = 'password'
+if (len('password' < 7):
+    print('password is too short')
+
+else:
+    print('password')
